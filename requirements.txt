@@ -1,0 +1,12 @@
+betacal==0.2.7
+jupyter==1.0.0
+netcal==1.1.2
+numpy==1.18.5
+pandas
+pytest==5.4.3
+scipy==1.4.1
+seaborn==0.10.1
+sklearn==0.0
+uncertainty-metrics==0.0.81
+statsmodels==0.11.1
+KDEpy==1.0.10
