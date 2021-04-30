@@ -1,6 +1,6 @@
 # Estimating Expected Calibration Errors
 
-This repository allows the reproducibility of the results reported in the paper "Estimating Expected Calibration Errors". A complete production-ready python module is currently being developped with a more friendly API will be available soon for day-to-day use of the tools introduced within the paper.
+This repository allows the reproducibility of the results reported in the paper "Estimating Expected Calibration Errors". A complete production-ready python module is currently being developped with a more friendly API, and will be available soon for day-to-day use of the tools introduced within the paper.
 
 # Setup
 
